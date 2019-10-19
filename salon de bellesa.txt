@@ -1,0 +1,5 @@
+1003 diaz sequea corte 15000 0x4aa100
+x4aa100 1001 diaz luis corte 0x4aa100
+0x4aa100 199;12;12;;12;1212;1;2;;2;2;0 12;1;2;;2;2;0 2 2 0x4aa100
+0x4aa100 2 0 2 2 0x4aa100
+0x4aa100 2 0 2 2 0x4aa100
